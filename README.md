@@ -1,2 +1,2 @@
 # Replication Materials for Estimating the gains of early detection of hypertension over the marginal patient
-Do-files and basic dataset required for replication
+Do-files and basic dataset required for replication of the main results using STATA 16. Data should be requested with NatCen directly, and dataCleaningPart1_ELSA_NATCEN_2018 and dataCleaningPart2_ELSA_NATCEN_2017 would produce the required dataset to run the main routines under the stated order.
